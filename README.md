@@ -66,6 +66,7 @@ Only 1 fact table was provided which was sufficient for the analysis. I created 
 - The company can give a discount to customers who pay by automatic payment method so as to help serve customers better by not making them worry about paying monthly and also the discount would help customers to switch to automatic payment platform.
 - A survey/forum can be carried out periodically so as to know the needs of the customers and that will help guide the Business in making decisions to meet the needs of customers.
 
+### [FOLLOW @ahmed adamu](https://www.linkedin.com/in/ahmed-adamu-0b63b9a5)
 
 
 
