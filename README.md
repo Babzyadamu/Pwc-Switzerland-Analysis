@@ -50,6 +50,23 @@ Only 1 fact table was provided which was sufficient for the analysis. I created 
 
 ![](Customer_Demographics.jpg)
 
+## Insights:
+
+- Month-to-Month contract had the highest charges with about $257,294.
+- Preferred payment method by customers is the Electronic check. Out of 7,043 customers, 2,365 used this method.
+- Tenure 1 had the highest number of customers which was 2,186
+- Tenure 1 had the highest monthly charge with $30,948
+- Average charge to customers was $65.
+- 1,869 customers churned and the overall churn rate was 26.54%
+- 3,4888 customers were female & 3,555 were male & 1,142 were senior citizens.
+
+## Recommendations:
+
+- Most customers have the month-to-month contract and this could be due to the price being more affordable. Discounts can be given to other contracts so that customers can increase in the one & two year contract.
+- The company can give a discount to customers who pay by automatic payment method so as to help serve customers better by not making them worry about paying monthly and also the discount would help customers to switch to automatic payment platform.
+- A survey/forum can be carried out periodically so as to know the needs of the customers and that will help guide the Business in making decisions to meet the needs of customers.
+
+
 
 
 
